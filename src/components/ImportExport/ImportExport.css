@@ -1,0 +1,50 @@
+.import-export {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .import-export button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  .import-export input[type="file"] {
+    display: none;
+  }
+  
+  .import-export label {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+  }
+
+  .import-export-container{
+    display: flex;
+  }
+  .export-section{
+    margin-top: 10px;
+    width: 91%;
+    margin-left: 1%;
+  }
+  .import-section{
+    margin-top: 10px;
+    width: 8%;
+    float: right;
+  }
+  .export-button{
+    background-color: rgb(6, 99, 6);
+  }
+  .export-button:hover{
+    background-color: rgb(6, 99, 6);
+  }

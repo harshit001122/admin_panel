@@ -1,0 +1,31 @@
+.page{
+    margin: 10px 40px;
+    color: white;
+}
+
+.pagination{
+    justify-content: center;
+}
+
+
+body.dark-mode .projects-table,
+body.dark-mode .projects-table td p:last-of-type,
+body.dark-mode .newDashboard,
+body.dark-mode .name,
+body.dark-mode .budget,
+body.dark-mode .edit,
+body.dark-mode .delete {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+body.light-mode .projects-table,
+body.light-mode .projects-table td p:last-of-type,
+body.light-mode .newDashboard,
+body.light-mode .name,
+body.light-mode .budget,
+body.light-mode .edit,
+body.light-mode .delete {
+  background-color: #000000;
+  color: #ffffff;
+}

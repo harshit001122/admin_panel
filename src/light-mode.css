@@ -1,0 +1,131 @@
+/* body.light-mode {
+    background-color: darkblue;
+    color: white;
+  }
+  
+  .projects.light-mode {
+    margin-top: 55px;
+    background-color: #f9f9f9;
+    border: 1px solid #000;
+    border-radius: 10px;
+    overflow-x: auto;
+    width: calc(100% - 50px);
+    margin-left: 30px;
+  }
+  
+  .projects-inner.light-mode {
+    border-radius: 4px;
+  }
+  
+  .projects-detail-light.light-mode {
+    background-color: white;
+    color: black;
+  }
+  
+  .projects-header.light-mode {
+    color: rgb(214, 62, 62);
+    font-weight: 700;
+    padding: 22px;
+  }
+  
+  .projects-table.light-mode {
+    background: #e1e1e1;
+    width: 100%;
+  }
+  
+  .projects-table.light-mode td,
+  .projects-table.light-mode th {
+    color: #000;
+    padding: 10px 22px;
+    vertical-align: middle;
+  }
+  
+  .projects-table.light-mode th {
+    background-color: #d3d3d3;
+  }
+  
+  .member img.light-mode {
+    border-radius: 50%;
+    height: 32px;
+    width: 32px;
+  }
+  
+  button.light-mode {
+    background-color: #007bff;
+    color: #ffffff;
+  }
+  
+  button.light-mode:hover {
+    background-color: #0056b3;
+  }
+  
+  button.light-mode svg {
+    margin-right: 8px;
+  }
+  
+  .Overlay.light-mode {
+    background-color: rgba(0, 0, 0, 0.75);
+  }
+  
+  .action-box.light-mode {
+    border: 2px solid rgba(86, 12, 155, 0.678);
+    background-color: #f0f0f0;
+    color: black;
+    border-radius: 5px;
+  }
+  
+  .status-dropdown.light-mode {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    color: #000;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .status-dropdown.light-mode:focus {
+    outline: none;
+    border-color: #007bff;
+  }
+  
+  .Modal.light-mode {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: auto;
+    bottom: auto;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    padding: 10px;
+    border-radius: 4px;
+    outline: none;
+    width: 400px;
+  }
+  
+  .closeModel.light-mode {
+    margin-left: 100px;
+  }
+  
+  form.light-mode {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  form label.light-mode {
+    margin-bottom: 5px;
+    font-size: medium;
+    font-weight: bold;
+  }
+  
+  form input.light-mode, form select.light-mode {
+    margin-bottom: 10px;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  form button.light-mode {
+    margin-top: 10px;
+  }
+   */

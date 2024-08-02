@@ -1,0 +1,161 @@
+/* Login.module.css */
+
+:root {
+  --bg-color-light: #ffffff;
+  --bg-color-dark: #121212;
+  --text-color-light: #000000;
+  --text-color-dark: #ffffff;
+  --input-bg-light: #f1f1f1;
+  --input-bg-dark: #333333;
+  --button-bg-light: #007bff;
+  --button-bg-dark: #6200ea;
+}
+
+.container {
+  background-color: var(--bg-color-light);
+  color: var(--text-color-light);
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 400px;
+  margin: auto;
+}
+
+.container.darkMode {
+  background-color: var(--bg-color-dark);
+  color: var(--text-color-dark);
+}
+
+.input {
+  background-color: var(--input-bg-light);
+  color: var(--text-color-light);
+}
+
+.input.darkMode {
+  background-color: var(--input-bg-dark);
+  color: var(--text-color-dark);
+}
+
+.signInButton {
+  background-color: var(--button-bg-light);
+  color: #ffffff;
+}
+
+.signInButton.darkMode {
+  background-color: var(--button-bg-dark);
+  color: #ffffff;
+}
+
+.error {
+  color: red;
+}
+
+img{
+  width: 60px;
+  height: 50px;
+}
+.RemeberMe{
+  color: red;
+  gap: 10px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  max-width: 400px;
+  margin: 50px auto;
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+  height: 80vh;
+  border-radius: 20px;
+  box-shadow: 0px 0px 20px 5px rgba(255, 255, 255, 0.97),
+              25px 0px 20px -20px rgba(0, 0, 0, 0.45),
+              0px 25px 20px -20px rgba(7, 4, 4, 0.45),
+              -25px 0px 20px -20px rgba(0, 0, 0, 0.45);
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.form {
+  width: 100%;
+}
+
+.inputGroup {
+  margin-bottom: 15px;
+  position: relative;
+}
+
+.input {
+  width: 92%;
+  padding: 12px 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+.forgotPassword {
+  top: 50%;
+  right: 16px;
+  transform: translateY(-50%);
+  font-size: 12px;
+  color: #f90;
+  text-decoration: none;
+}
+
+.signInButton {
+  width: 100%;
+  padding: 12px;
+  background-color: #f90;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.divider {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 20px 0;
+  font-size: 14px;
+  color: #8d8888;
+}
+
+.divider::before,
+.divider::after {
+  content: '';
+  flex: 1;
+  border-bottom: 1px solid #ccc;
+}
+
+.divider::before {
+  margin-right: 10px;
+}
+
+.divider::after {
+  margin-left: 10px;
+}
+
+.register {
+  font-size: 14px;
+  color: #666;
+  margin-top: 20px;
+}
+
+.register a {
+  color: #f90;
+  text-decoration: none;
+}

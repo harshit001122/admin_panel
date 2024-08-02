@@ -1,0 +1,131 @@
+/* body.dark-mode {
+    background-color: #273142;
+    color: white;
+  }
+  
+  .projects.dark-mode {
+    margin-top: 55px;
+    background-color: #273142;
+    border: 1px solid #000;
+    border-radius: 10px;
+    overflow-x: auto;
+    width: calc(100% - 50px);
+    margin-left: 30px;
+  }
+  
+  .projects-inner.dark-mode {
+    border-radius: 4px;
+  }
+  
+  .projects-detail-light.dark-mode {
+    background-color: white;
+    color: black;
+  }
+  
+  .projects-header.dark-mode {
+    color: rgb(214, 62, 62);
+    font-weight: 700;
+    padding: 22px;
+  }
+  
+  .projects-table.dark-mode {
+    background: #1a263b;
+    width: 100%;
+  }
+  
+  .projects-table.dark-mode td,
+  .projects-table.dark-mode th {
+    color: #fff;
+    padding: 10px 22px;
+    vertical-align: middle;
+  }
+  
+  .projects-table.dark-mode th {
+    background-color: rgb(37, 37, 43);
+  }
+  
+  .member img.dark-mode {
+    border-radius: 50%;
+    height: 32px;
+    width: 32px;
+  }
+  
+  button.dark-mode {
+    background-color: #007bff;
+    color: #ffffff;
+  }
+  
+  button.dark-mode:hover {
+    background-color: #0056b3;
+  }
+  
+  button.dark-mode svg {
+    margin-right: 8px;
+  }
+  
+  .Overlay.dark-mode {
+    background-color: rgba(0, 0, 0, 0.75);
+  }
+  
+  .action-box.dark-mode {
+    border: 2px solid rgba(86, 12, 155, 0.678);
+    background-color: #29273f86;
+    color: aliceblue;
+    border-radius: 5px;
+  }
+  
+  .status-dropdown.dark-mode {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    color: #000;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .status-dropdown.dark-mode:focus {
+    outline: none;
+    border-color: #007bff;
+  }
+  
+  .Modal.dark-mode {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: auto;
+    bottom: auto;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    padding: 10px;
+    border-radius: 4px;
+    outline: none;
+    width: 400px;
+  }
+  
+  .closeModel.dark-mode {
+    margin-left: 100px;
+  }
+  
+  form.dark-mode {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  form label.dark-mode {
+    margin-bottom: 5px;
+    font-size: medium;
+    font-weight: bold;
+  }
+  
+  form input.dark-mode, form select.dark-mode {
+    margin-bottom: 10px;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  form button.dark-mode {
+    margin-top: 10px;
+  }
+   */
